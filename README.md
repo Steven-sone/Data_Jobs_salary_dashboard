@@ -1,4 +1,4 @@
-# Excel Salary Dashboard
+# Data Jobs Salary Excel Dashboard
 
 
 ## Introduction
